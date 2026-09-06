@@ -37,8 +37,8 @@ Soy un profesional apasionado por el diseño e implementación de soluciones de 
 ### 📫 Cómo contactarme
 
 - ✉️ **Email:** cristiantobarmorales@gmail.com
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/cristian-tobar/]
-- 📊 **Tableau Public:** [https://public.tableau.com/app/profile/cristian.matias.tobar.morales/vizzes]
+- 💼 **LinkedIn:** https://www.linkedin.com/in/cristian-tobar/
+- 📊 **Tableau Public:** https://public.tableau.com/app/profile/cristian.matias.tobar.morales/vizzes
 
 ---
 ⭐️ *De un vistazo: Siempre buscando optimizar procesos y construir puentes robustos entre la ciencia de datos y las operaciones de negocio.*
