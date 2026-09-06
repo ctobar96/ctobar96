@@ -28,17 +28,17 @@ Soy un profesional apasionado por el diseño e implementación de soluciones de 
 
 ### 📂 Proyectos Destacados
 
-* 🥚 **Avian Data ML Pipeline:** Desarrollo de un pipeline ETL de extremo a extremo y modelos predictivos para optimizar el rendimiento biológico y clasificar la calidad en la producción de huevos, integrando un dashboard interactivo en Streamlit.
+* 🥚 **Avian Data ML Pipeline:** Desarrollo de un pipeline ETL y dashboard interactivo en Streamlit enfocado en el análisis, seguimiento y control del consumo de alimento avícola.
 * 🦜 **Asistente RAG para Análisis de Documentos:** Arquitectura de IA Generativa construida con LangChain para la extracción de información y respuesta a preguntas sobre PDFs.
 * 📦 **B2B Inventory Data Pipeline:** Pipeline de extremo a extremo utilizando Python, PostgreSQL, Docker y Amazon S3, culminando en dashboards interactivos para gestión de stock.
-* 🧪 **Predicción Segura de Propiedades Químicas:** Modelado predictivo implementando presupuestos de privacidad (ε) y cifrado de datos en reposo para mitigar riesgos de inferencia.
+* 🧪 **Predicción Segura de Propiedades Químicas:** Modelado predictivo implementando presupuestos de privacidad (ε) y cifrado de datos en reposo para mitigar riesgos de inferencia. *Proyecto de tesis para la obtención del grado de Magíster en Data Science.*
 * ⚽ **Scouting Deportivo Analytics:** Dashboards interactivos desplegados en Tableau Public para la identificación de talento futbolístico basado en valor de mercado y edad.
 
 ### 📫 Cómo contactarme
 
 - ✉️ **Email:** cristiantobarmorales@gmail.com
-- 💼 **LinkedIn:** [Tu URL de LinkedIn aquí]
-- 📊 **Tableau Public:** [Tu URL de Tableau aquí]
+- 💼 **LinkedIn:** https://www.linkedin.com/in/cristian-tobar/
+- 📊 **Tableau Public:** https://public.tableau.com/app/profile/cristian.matias.tobar.morales/vizzes
 
 ---
 ⭐️ *De un vistazo: Siempre buscando optimizar procesos y construir puentes robustos entre la ciencia de datos y las operaciones de negocio.*
