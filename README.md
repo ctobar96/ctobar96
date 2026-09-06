@@ -6,7 +6,7 @@ Soy un profesional apasionado por el diseño e implementación de soluciones de 
 
 ### 🚀 Sobre mí
 - 🔭 Actualmente enfocado en el despliegue de **Pipelines ETL/ELT**, arquitecturas **RAG (Retrieval-Augmented Generation)** y el uso de **Docker** para asegurar la reproducibilidad.
-- 🌱 Explorando activamente la **Seguridad en Machine Learning** (aplicación del modelo STRIDE, privacidad diferencial con ruido Laplaciano) y el desarrollo de **modelos predictivos para trading algorítmico**.
+- 🌱 Explorando activamente la **Seguridad en Machine Learning** (aplicación del modelo STRIDE, privacidad diferencial con ruido Laplaciano).
 - 📊 Creador de herramientas de análisis para la toma de decisiones, desde dashboards de *Scouting Deportivo* hasta control de inventarios B2B.
 
 ### 🛠️ Stack Tecnológico
