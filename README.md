@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hola, soy Cristian Tobar Morales 👋
 
-<!--
-**ctobar96/ctobar96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Magíster en Data Science | MLOps | Data Engineering**
 
-Here are some ideas to get you started:
+Soy un profesional apasionado por el diseño e implementación de soluciones de datos de extremo a extremo. Me especializo en transformar datos crudos en aplicaciones interactivas y modelos predictivos, integrando buenas prácticas de ingeniería de datos, arquitecturas de IA Generativa y visualización avanzada.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí
+- 🔭 Actualmente enfocado en el despliegue de **Pipelines ETL/ELT**, arquitecturas **RAG (Retrieval-Augmented Generation)** y el uso de **Docker** para asegurar la reproducibilidad.
+- 🌱 Explorando activamente la **Seguridad en Machine Learning** (aplicación del modelo STRIDE, privacidad diferencial con ruido Laplaciano) y el desarrollo de **modelos predictivos para trading algorítmico**.
+- 📊 Creador de herramientas de análisis para la toma de decisiones, desde dashboards de *Scouting Deportivo* hasta control de inventarios B2B.
+
+### 🛠️ Stack Tecnológico
+
+**Lenguajes & ML:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**Data Engineering & MLOps:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+
+**Visualización & Dashboards:**
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
+### 📂 Proyectos Destacados
+
+* 🥚 **Avian Data ML Pipeline:** Desarrollo de un pipeline ETL de extremo a extremo y modelos predictivos para optimizar el rendimiento biológico y clasificar la calidad en la producción de huevos, integrando un dashboard interactivo en Streamlit.
+* 🦜 **Asistente RAG para Análisis de Documentos:** Arquitectura de IA Generativa construida con LangChain para la extracción de información y respuesta a preguntas sobre PDFs.
+* 📦 **B2B Inventory Data Pipeline:** Pipeline de extremo a extremo utilizando Python, PostgreSQL, Docker y Amazon S3, culminando en dashboards interactivos para gestión de stock.
+* 🧪 **Predicción Segura de Propiedades Químicas:** Modelado predictivo implementando presupuestos de privacidad (ε) y cifrado de datos en reposo para mitigar riesgos de inferencia.
+* ⚽ **Scouting Deportivo Analytics:** Dashboards interactivos desplegados en Tableau Public para la identificación de talento futbolístico basado en valor de mercado y edad.
+
+### 📫 Cómo contactarme
+
+- ✉️ **Email:** cristiantobarmorales@gmail.com
+- 💼 **LinkedIn:** [Tu URL de LinkedIn aquí]
+- 📊 **Tableau Public:** [Tu URL de Tableau aquí]
+
+---
+⭐️ *De un vistazo: Siempre buscando optimizar procesos y construir puentes robustos entre la ciencia de datos y las operaciones de negocio.*
