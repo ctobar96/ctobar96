@@ -14,6 +14,7 @@ Soy un profesional apasionado por el diseño e implementación de soluciones de 
 **Lenguajes & ML:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 **Data Engineering & MLOps:**
@@ -21,6 +22,8 @@ Soy un profesional apasionado por el diseño e implementación de soluciones de 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 **Visualización & Dashboards:**
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -29,6 +32,7 @@ Soy un profesional apasionado por el diseño e implementación de soluciones de 
 
 ### 📂 Proyectos Destacados
 
+* 🌍 **Clasificador de Uso de Suelo (Visión por Computadora):** Despliegue de un modelo EfficientNetB0 fine-tuneado mediante TensorFlow y Streamlit. Implementación de pipelines CI/CD con GitHub Actions e Infraestructura como Código (IaC) con Terraform para su servicio en Google Cloud Run y almacenamiento en Cloud Storage.
 * 🥚 **Avian Data ML Pipeline:** Desarrollo de un pipeline ETL y dashboard interactivo en Streamlit enfocado en el análisis, seguimiento y control del consumo de alimento avícola.
 * 🦜 **Asistente RAG para Análisis de Documentos:** Arquitectura de IA Generativa construida con LangChain para la extracción de información y respuesta a preguntas sobre PDFs.
 * 📦 **B2B Inventory Data Pipeline:** Pipeline de extremo a extremo utilizando Python, PostgreSQL, Docker y Amazon S3, culminando en dashboards interactivos para gestión de stock.
